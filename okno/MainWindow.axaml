@@ -6,7 +6,8 @@
         x:Class="okno.MainWindow"
         Title="Mój warsztat"
         Background="LightGray"
-        Width="600">
+        Width="600"
+        Height="400">
     <TextBlock Text="Warsztat"
                FontSize="28"
                FontWeight="Bold"
