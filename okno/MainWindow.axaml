@@ -5,7 +5,8 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="okno.MainWindow"
         Title="Mój warsztat"
-        Background="LightGray">
+        Background="LightGray"
+        Width="600">
     <TextBlock Text="Warsztat"
                FontSize="28"
                FontWeight="Bold"
