@@ -8,6 +8,7 @@
     <TextBlock Text="Warsztat"
                FontSize="28"
                FontWeight="Bold"
+               FontStyle="Italic"
                HorizontalAlignment="Center"
                VerticalAlignment="Center"/>
 </Window>
