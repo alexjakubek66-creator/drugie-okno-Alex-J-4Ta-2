@@ -8,12 +8,17 @@
         Background="LightGray"
         Width="600"
         Height="400">
-    <TextBlock Text="Warsztat"
-               FontSize="28"
-               FontWeight="Bold"
-               FontStyle="Italic"
-               Foreground="Blue"
-               Margin="20"
-               HorizontalAlignment="Center"
-               VerticalAlignment="Center"/>
+    <Border BorderBrush="Black"
+            BorderThickness="1"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center">
+        <TextBlock Text="Warsztat"
+                   FontSize="28"
+                   FontWeight="Bold"
+                   FontStyle="Italic"
+                   Foreground="Blue"
+                   Margin="20"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"/>
+    </Border>
 </Window>
